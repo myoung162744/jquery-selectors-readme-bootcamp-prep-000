@@ -1,5 +1,5 @@
 // declare your functions here...
-function paragraphSelector(){
+function paragraphSelector() {
   var selections = $('p')
   return selections
 }
